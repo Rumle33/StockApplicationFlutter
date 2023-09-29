@@ -1,0 +1,2 @@
+# StockApplicationFlutter
+Stock overview helper
